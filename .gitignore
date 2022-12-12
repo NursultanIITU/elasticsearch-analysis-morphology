@@ -1,0 +1,11 @@
+/data
+/work
+/logs
+/.idea
+.DS_Store
+*.iml
+/.project
+/.settings
+/.classpath
+/*.ipr
+/*.iws

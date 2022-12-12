@@ -1,0 +1,3 @@
+org/elasticsearch/plugin/analysis/morphology/MorphologyTokenFilterFactory.class
+org/elasticsearch/plugin/analysis/morphology/MorphologyAnalyzerProvider.class
+org/elasticsearch/plugin/analysis/morphology/AnalysisMorphologyPlugin.class
